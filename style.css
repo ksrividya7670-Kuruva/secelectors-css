@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(232, 126, 11);
+}
+.head{
+  color:darkblue;
+}
+#bglime {
+    background-color: lime;
+}
+.red{
+    color: red;
+    background-color: lime;
+}
+#para{
+    color: green;
+    font-size:30px;
+}
+.black{
+    color: black;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+/* #dirsel>li{
+    color: red;
+} */
+ ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
+ol li{
+    color: black;
+}
